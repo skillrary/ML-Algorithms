@@ -1,2 +1,1 @@
-# ML-Algorithms
-ML Algorithms contributed by Ravinder Joshi
+# Machine-Learning-using-Python-Cognitive-Class--1
